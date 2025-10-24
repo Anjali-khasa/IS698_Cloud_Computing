@@ -1,0 +1,5 @@
+# Ignore any secrets or config files
+*secrets*.py
+mysecrets.py
+
+main.tf
